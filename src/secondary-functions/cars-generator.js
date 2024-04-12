@@ -30,6 +30,7 @@ export const generateRandomName = () => {
   const model = models[Math.floor(Math.random() * models.length)];
   return `${name} ${model}`;
 };
+
 export const generateRandomColor = () => {
   const symbols = '0123456789ABCDEF';
   let color = '#';

@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://anvianvi.github.io/online-zooasync-race-2023/"
+    "url": "git+https://anvianvi.github.io/async-race-2023/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://anvianvi.github.io/online-zooasync-race-2023/",
+  "homepage": "https://anvianvi.github.io/async-race-2023/",
   "devDependencies": {
     "eslint": "^8.30.0",
     "eslint-config-airbnb-base": "^15.0.0",
